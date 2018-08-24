@@ -1,0 +1,20 @@
+ body {
+     background-color: turqoise;
+     margin: 0;
+ }
+ 
+ #jim {
+   background: yellow;
+   position: relative;
+   height: 200px;
+  width: 200px;
+}
+
+img {
+    position: absolute;
+    margin: auto;
+    top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+ }
