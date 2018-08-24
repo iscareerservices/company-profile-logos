@@ -3,11 +3,11 @@ body {
 }
 
 #jim {
-    max-height: 200px;
-    max-width: 200px;
+    height: 200px;
+    width: 200px;
 }
 
 img {
-    max-height: 200px;
+    max-height: 180px;
     max-width: 200px;
 }
