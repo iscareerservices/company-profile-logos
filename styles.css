@@ -7,11 +7,12 @@ body {
     height: 200px;
     width: 200px;
     display: inline-block;
-    vertical-align: middle;
+    
 }
 
 img {
     max-height: 200px;
     max-width: 200px;
+    vertical-align: middle;
     
 }
