@@ -1,10 +1,8 @@
  body {
-     background-color: blue;
      margin: 0;
  }
  
  #jim {
-   background: yellow;
    position: relative;
    height: 200px;
    width: 200px;
